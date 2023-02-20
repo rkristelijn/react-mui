@@ -6,6 +6,7 @@ import App from './App';
 import theme from './theme';
 
 const rootElement = document.getElementById('root');
+// eslint-disable-next-line @typescript-eslint/no-non-null-assertion
 const root = ReactDOM.createRoot(rootElement!);
 
 root.render(
@@ -13,5 +14,5 @@ root.render(
     {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
     <CssBaseline />
     <App />
-  </ThemeProvider>,
+  </ThemeProvider>
 );
