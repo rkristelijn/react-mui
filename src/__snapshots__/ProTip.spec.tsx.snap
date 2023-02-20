@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProTip should match snapshop 1`] = `
+<p
+  className="MuiTypography-root MuiTypography-body1 css-md368d-MuiTypography-root"
+>
+  <LightBulbIcon
+    sx={
+      Object {
+        "mr": 1,
+        "verticalAlign": "middle",
+      }
+    }
+  />
+  Pro tip: See more 
+  <a
+    className="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1ps4owl-MuiTypography-root-MuiLink-root"
+    href="https://mui.com/getting-started/templates/"
+    onBlur={[Function]}
+    onFocus={[Function]}
+  >
+    templates
+  </a>
+   in the MUI documentation.
+</p>
+`;

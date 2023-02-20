@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LightBulbIcon should match snapshop 1`] = `
+<LightBulbIcon
+  sx={
+    Object {
+      "aria-busy": "false",
+    }
+  }
+/>
+`;
